@@ -1,11 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="241">
-            <Title>Mythology</Title>
+        <Document ID="131">
+            <Title>Culture</Title>
         </Document>
         <Document ID="42">
             <Title>Groups &amp; Factions</Title>
+        </Document>
+        <Document ID="244">
+            <Title>Of Note</Title>
+            <Text>Banbury 
+
+the cross 
+Huanted seemingly by the lady in the statue. 
+Actually thats a changling 
+The od,l cross by the quay is actually haunted by the lady and her honour 
+
+the quays 
+The old moat and bailey of Banbury!  
+Various hauntings, but also a crypt below the town hall building. 
+
+The mill 
+A artist place toreador type with brujah leanings 
+
+Churches 
+Banbury has 3 old churches that are now various things, it as several still active churches for  mage scholars!  
+
+The canal 
+A major extra into and out of Banbury, who notices the ragamuffin boat yard and the people that pass through 
+
+Neaby locals 
+Baker girl 
+Artisan farm yard! there certainly is magic in that bread, and the near by Asparagus farm is this changing lead or mage  
+
+Boulington Castle 
+old place, old land older inhabitants 
+
+Oxford 
+Huge job to expand oxford the 30+colleges of disputed mage/vamires and the changelings an ghosts that haunt every street 
+
+enough that lycans should never enter its borders 
+
+Leamington Spa 
+
+need more info 
+
+Warwick 
+castle, ancient place 
+
+Bicester 
+new and badly torn from the land, liycans would see it burned but who drive the change!  
+</Text>
         </Document>
         <Document ID="242">
             <Title>Technology</Title>
@@ -18,6 +63,36 @@
         </Document>
         <Document ID="4">
             <Title>Campaign Guide</Title>
+            <Synopsis>Banbury by Night</Synopsis>
+        </Document>
+        <Document ID="245">
+            <Title>notes</Title>
+            <Text>Vampires 
+Toredor type running the mill art centre 
+
+Brujah/ventrue type out at broughton hall 
+
+Something in the old big house near the cross 
+
+
+Mages 
+
+A coitery in the near by village of suitably do not want to be notices by oxford types... 
+
+coitery in the hall on dashwood road/or Bodicote 
+
+Lycanthropes 
+Woodlands of note,  
+
+
+Changlings 
+Wood land dwellers, and the lady of the cross.  
+
+Immortals 
+
+One, canal boat dwelling 
+Ravnos, Canal boat dwellers!  
+</Text>
         </Document>
         <Document ID="5">
             <Title>Campaign</Title>
@@ -25,26 +100,37 @@
         <Document ID="23">
             <Title>Hooks</Title>
         </Document>
+        <Document ID="243">
+            <Title>Banbury by Night</Title>
+            <Text>Shadowed by the spires of Oxford, always perpetually playing catchup in terms of Architecture and fashion with its Larger neighbour. A description of both Banbury the town and it’s shadowy inhabitants. 
+
+Oxford leads, with it’s numerous denzines of the night, the Ghosts that haunt its ancient spires, the Mages that call those spires home, the vampires that stalk between them, housed in it innumerable crypts and passing among its countless churning student populous. Add to this the rolling green fields, and dispersed woodlands of Oxfordshire and its Lycanthrope and Magely guardians! It draws visitors to its historic academia, but only as a way station between the Metropolitan centres of Birmingham, and London. 
+
+Banbury by comparison, copies, almost overlooked by every traveller its more stable populous of denizens appreciate being left alone. Those wishing to escape notice have found it a handy place to hide in the shadow of the greater metropolises and Oxfords spires. The numbers are fewer, the churn less. But as the roar of the arterial motorway passes by and the canal through  is a base for these denizens. 
+
+Often a staging ground for those pushing into Oxford, or wishing to go unnoticed while they foray into Oxford. It has played host to Sabbat parties, Anarchist groups, none establishment coteries. It is the last resting place of more than one denzine chased into the shadows by those license who seek to protect the land. And it has hidden in its parts more than one immortal hiding from the final days. 
+</Text>
+        </Document>
         <Document ID="98">
             <Title>Magic</Title>
+        </Document>
+        <Document ID="241">
+            <Title>Mythology</Title>
         </Document>
         <Document ID="45">
             <Title>Thematic Elements</Title>
         </Document>
-        <Document ID="0">
-            <Title>Player's Handbook</Title>
+        <Document ID="41">
+            <Title>Places</Title>
         </Document>
         <Document ID="100">
             <Title>Stories</Title>
         </Document>
+        <Document ID="0">
+            <Title>Player's Handbook</Title>
+        </Document>
         <Document ID="18">
             <Title>Setting</Title>
-        </Document>
-        <Document ID="131">
-            <Title>Culture</Title>
-        </Document>
-        <Document ID="41">
-            <Title>Places</Title>
         </Document>
     </Documents>
 </SearchIndexes>
